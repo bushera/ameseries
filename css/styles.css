@@ -101,7 +101,7 @@ body{background:white;}
 		100%{background:indigo;}
 	}
 
-	 #slide-body{position:fixed; top:0%; height:100%; width:100%; background:white; }
+	 #slide-body{position:absolute; top:0%; height:100%; width:100%; background:white; }
 	 
 	 #live-exhibi{display:none;}
 	 
