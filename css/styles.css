@@ -105,9 +105,9 @@ body{background:white;}
 	 
 	 #live-exhibi{display:none;}
 	 
-	 #slide1{position:absolute;  width:98.50%; left:.75%; background:transparent; display:block;}
-	 #slide2{position:absolute; width:98.50% left:.75%; background:transparent; display:none;}
-	 #slide3{position:absolute; width:98.50%; left:.75%; background:transparent; display:none;}
+	 #slide1{position:fixed;  width:98.50%; left:.75%; background:transparent; display:block;}
+	 #slide2{position:fixed; width:98.50% left:.75%; background:transparent; display:none;}
+	 #slide3{position:fixed; width:98.50%; left:.75%; background:transparent; display:none;}
 	 #slide1a{display:none;}
 	 #slide2a{display:none;}
 	 #slide3a{display:none;}
