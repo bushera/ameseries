@@ -105,7 +105,7 @@ body{background:white;}
 	 
 	 #live-exhibi{display:none;}
 	 
-	 #slide1{position:fixed;  width:98.50%; left:.75%; background:transparent; display:block;}
+	 #slide1{position:absolute;  width:98.50%; left:.75%; height:85%; background:transparent; display:block;}
 	 #slide2{position:fixed; width:98.50% left:.75%; background:transparent; display:none;}
 	 #slide3{position:fixed; width:98.50%; left:.75%; background:transparent; display:none;}
 	 #slide1a{display:none;}
