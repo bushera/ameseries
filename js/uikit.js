@@ -11467,7 +11467,7 @@
             write: function(ref) {
                 var height = ref.height;
 
-                css(this.list, 'Height', height);
+                height > 0 && css(this.list, 'minHeight', height);
             },
 
             events: ['resize']
