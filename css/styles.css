@@ -60,9 +60,9 @@ body{background:white;}
 	 #modal-form>h2{font-size:16px; font-weight:bold; position:absolute; top:7%; letter-spacing:5px; text-align:center;}
 	 #modal-form>h3{font-size:12px;  position:absolute; right:10%; top:20%;} 
 	 #modal-form>h4{font-size:10px;  position:absolute; right:10.5%; top:26%;}
-	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#212121;  border:2.5px solid cyan; color:white; height:25px; font-size:15px;}
+	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242;  border:2.5px solid cyan; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:10%; width:30%; height:75%;  border:2.5px solid grey; filter:grayscale(10); opacity:.8;}
-	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#212121; }
+	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
 	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white }
 	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:white }
      #location-input{position:absolute; width:42%; left:50%; top:65%; color:white; text-transform:capitalize; }
@@ -126,9 +126,9 @@ body{background:white;}
 	 #modal-form>h2{font-size:16px; font-weight:bold; position:absolute; top:7%; letter-spacing:5px; text-align:center;}
 	 #modal-form>h3{font-size:12px;  position:absolute; right:10%; top:20%;} 
 	 #modal-form>h4{font-size:10px;  position:absolute; right:10.5%; top:26%;}
-	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#212121;  border:2px solid cyan; color:white; height:25px; font-size:15px;}
+	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242;  border:2px solid cyan; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:25%; left:5%; filter:grayscale(10);  border:1.5px solid grey; opacity:.8;}
-	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#212121; }
+	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
 	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white; }
 	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:white; }
      #location-input{position:absolute; width:42%; left:50%; top:65%; color:white; text-transform:capitalize; }
